@@ -2,13 +2,13 @@
 The most important thing to do is **act confident** in your recommendation, even if you recommend someone the best thing, they will still be weary if you seem unconfident. This is a lot easier said than done, and comes with time, but it *distinctly* improves how customers (and co-workers) percieve your judgement.
 
 ## Index
-[**1. Common Parts**](#1-common-parts)
-[1.1 Engine Oil](#11-engine-oil)
-[1.2 Oil Filters](#12-oil-filters)
-[1.3 Bulbs](#13-bulbs)
+[**1. Common Parts**](#1-common-parts)\
+[1.1 Engine Oil](#11-engine-oil)\
+[1.2 Oil Filters](#12-oil-filters)\
+[1.3 Bulbs](#13-bulbs)\
 [1.4 Wipers](#14-wipers)
 
-[**2. Less Common Parts**](#2-less-common-parts)
+[**2. Less Common Parts**](#2-less-common-parts)\
 
 ## 1. Common Parts
 The most common things you'll be asked for are:
