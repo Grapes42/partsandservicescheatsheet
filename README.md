@@ -3,12 +3,13 @@ The most important thing to do is **act confident** in your recommendation, even
 
 ## Index
 [**1. Common Parts**](#1-common-parts)\
-[1.1 Engine Oil](#11-engine-oil)\
-[1.2 Oil Filters](#12-oil-filters)\
-[1.3 Bulbs](#13-bulbs)\
-[1.4 Wipers](#14-wipers)
+[1.1. Engine Oil](#11-engine-oil)\
+[1.2. Oil Filters](#12-oil-filters)\
+[1.3. Bulbs](#13-bulbs)\
+[1.4. Wipers](#14-wipers)
 
 [**2. Less Common Parts**](#2-less-common-parts)\
+[2.1. Car Batteries](#21-car-batteries)
 
 ## 1. Common Parts
 The most common things you'll be asked for are:
@@ -35,7 +36,7 @@ For example lets make up a random car, we put in the rego and it gives us the op
 - `0W-30`
 - `5W-30`
 - `5W-40`
-- `10W-30`.
+- `10W-30`
 
 If the car has done less than 100k kms then I'd go for something like a `0W-20` or `0W-30`. If it's done between 100k and 200k then I'd go for something like a `5W-30`. Anything higher than that I'd go for a `5W-40` or even a `10W-30` if its old.
 
@@ -85,7 +86,10 @@ Also, if the customer wants the rear wiper replaced, unless the car is old and h
 
 ## 2. Less Common Parts
 
-### 2.1 Car Batteries
+### 2.1. Car Batteries
 
-There are x important details about a battery:
-- Size and shape
+There are 4 important details about a battery:
+- Overall size and shape
+- Terminal size
+- Terminal positions
+- CCA
