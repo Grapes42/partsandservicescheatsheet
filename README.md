@@ -2,12 +2,13 @@
 The most important thing to do is **act confident** in your recommendation, even if you recommend someone the best thing, they will still be weary if you seem unconfident. This is a lot easier said than done, and comes with time, but it *distinctly* improves how customers (and co-workers) percieve your judgement.
 
 ## Index
-1. [**Common Parts**](#1-common-parts)
-    1.1 [Engine Oil](#11-engine-oil)
-    1.2 [Oil Filters](#12-oil-filters)
-    1.3 [Bulbs](#13-bulbs)
-    1.4 [Wipers](#14-wipers)
-2. [**Less Common Parts**](#2-less-common-parts)
+[**1. Common Parts**](#1-common-parts)
+[1.1 Engine Oil](#11-engine-oil)
+[1.2 Oil Filters](#12-oil-filters)
+[1.3 Bulbs](#13-bulbs)
+[1.4 Wipers](#14-wipers)
+
+[**2. Less Common Parts**](#2-less-common-parts)
 
 ## 1. Common Parts
 The most common things you'll be asked for are:
@@ -81,3 +82,10 @@ If their car is outside, skip OSCAR; it's **much** faster to just look at their 
 If the wipers look like a [Bosch Wiperblade](https://www.supercheapauto.co.nz/p/bosch-bosch-aerotwin-wiper-blade-600mm-24-single---ap600u/562315.html#q=bosch%2Bwipers&lang=en_NZ&start=3), then just ask me, Simer, Josh, etc. These ones are always a case by case basis; I'll show you in person how to deal with these. I genuinely hate them so much.
 
 Also, if the customer wants the rear wiper replaced, unless the car is old and has a refillable rear wiper, we will have to order one in for them. Check OSCAR for a listing if their rear wiper doesn't look like a TBL blade.
+
+## 2. Less Common Parts
+
+### 2.1 Car Batteries
+
+There are x important details about a battery:
+- Size and shape
