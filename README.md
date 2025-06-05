@@ -93,3 +93,14 @@ There are 4 important details about a battery:
 - Terminal size
 - Terminal positions
 - CCA
+
+```
+This part of the guide is under construction
+
+               O
+       /~~~|#|]|=\|---\__
+     |-=_____________  |\\ ,             O       O
+    I|_/,-.-.-.-.-,-.\_|='(             T/\     /\=,---.
+       ( o )( o )( o )     \            U /\   /\   `O'  
+        `-'-'-'-'-`-'
+```
